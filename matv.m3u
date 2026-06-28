@@ -4,9 +4,6 @@
 
 ----------NACIONALES----------
 
-#EXTINF:-1 tvg-id="UCV TV" tvg-name="UCV TV" tvg-logo="https://i.postimg.cc/jjGpZf4T/UCV-Logo.png" group-title="NACIONAL",UCV TV
-https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://i.ibb.co/3NmJZNb/tvn.png" group-title="NACIONAL",TVN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d/nU1qFwH1NSCLz7WcAxHw", "kid":"qsQrXWpvW+2/1irF/vKJeA" },{ "kty":"oct", "k":"XiOoAFP7J086ASb6KHrrzw", "kid":"4hyVGmZxWcujnAmpRnUfcw" },{ "kty":"oct", "k":"ZJueey+t0p2zVbbbvAxS6w", "kid":"coh5b86yVlucQZ22OLXcGw" } ], "type":"temporary" }
@@ -22,7 +19,7 @@ https://cdn-live.mundogo.cl/megahd/megahd.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dqUhhx1yCBJDp1mzJJA6qg", "kid":"knfaekUMU3qMu2yCnJOLyQ" },{ "kty":"oct", "k":"E6pTzM3gwIdabnVpMs8u9Q", "kid":"hEWhRQNyXVGot2MJPkkH+g" },{ "kty":"oct", "k":"F0VQQyWzeSLA1a2u6sgDwg", "kid":"c+/00+G8XmGaLGIc/6H4gg" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/chilevisionhd/chilevisionhd.mpd
 
-#EXTINF:-1 tvg-id="Canal 13 HD" tvg-name="Canal 13 HD" tvg-logo="https://i.ibb.co/hsPWxXx/canal-13.png" group-title="NACIONAL",CANAL 13 HD
+#EXTINF:-1 tvg-id="Canal 13" tvg-name="Canal 13 HD" tvg-logo="https://i.ibb.co/hsPWxXx/canal-13.png" group-title="NACIONAL",CANAL 13 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NyCKl8fwHt9SPtdXXVup9A", "kid":"VzdZuIhvXamSo8zOva6yHQ" },{ "kty":"oct", "k":"1oEjgsMbH+68Ukx1yiyZ7Q", "kid":"Wv/ZEqcIUEabrubtIQNdHA" },{ "kty":"oct", "k":"DCMFnyVyNIvc+KQXTctrqA", "kid":"+wF5ZnvWUr66PEtryUjYRw" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/canal13/canal13.mpd
@@ -30,8 +27,8 @@ https://cdn-live.mundogo.cl/canal13/canal13.mpd
 #EXTINF:-1 tvg-id="T13 en vivo" tvg-name="T13 en vivo" tvg-logo="https://yt3.googleusercontent.com/QlXT9eo7ws4PZlMGvCRf1h3wU7-lPw1nIgJ3IFDpsdR_IDM3F9mYuzusaalNVDdylnVZzMhAUnk=s900-c-k-c0x00ffffff-no-rj" group-title="NACIONAL",T13 en vivo
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CHV Noticias" tvg-name="CHV Noticias" tvg-logo="https://yt3.googleusercontent.com/pinHwe6FMjXdx0FN4-bOCWYfyTXPCCSmm-sKhPvZYr8d4vYQKs7rwB9qtPCzUr8kdyJTFioudQ=s900-c-k-c0x00ffffff-no-rj" group-title="NACIONAL",CHV Noticias
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="UCV TV" tvg-name="UCV TV" tvg-logo="https://i.postimg.cc/jjGpZf4T/UCV-Logo.png" group-title="NACIONAL",UCV TV
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV+ HD" tvg-name="TV+ HD" tvg-logo="https://i.ibb.co/SP9HQH8/tv.png" group-title="NACIONAL",TV+ HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
